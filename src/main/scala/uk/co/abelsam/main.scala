@@ -1,5 +1,5 @@
 package uk.co.abelsam
 
 object main extends App {
-  println("Hello Little Mouse")
+  println("Hello Samantha")
 }
